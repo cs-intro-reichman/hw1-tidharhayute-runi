@@ -21,7 +21,6 @@ public class TimeFormat {
 			} else {
 				System.out.println(hours + ":" + minutes + time);
 			}
-			
 		}
 	}
 }
